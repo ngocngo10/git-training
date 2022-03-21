@@ -5,3 +5,7 @@ function sumArray(arr) {
   }
   return sum;
 }
+function sum(a, b) {
+  let c = a + b;
+  return c;
+}
