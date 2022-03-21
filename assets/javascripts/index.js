@@ -1,7 +1,7 @@
 function sumArray(arr) {
   let sum = 0;
   for (let i = 0; i < arr.length; i++) {
-    sum += mang[i];
+    sum += arr[i];
   }
   return sum;
 }
