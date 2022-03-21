@@ -1,0 +1,127 @@
+[33mcommit dc92ea765883d0389065f4b444a6057571c8a879[m[33m ([m[1;36mHEAD -> [m[1;32mbranch2[m[33m, [m[1;31morigin/branch2[m[33m)[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Mon Mar 21 08:10:09 2022 +0700
+
+    save temp
+
+[33mcommit b4b5cd9224f9577a07751f4664428aa8b22c8dc7[m
+Merge: 5ce29e1 6f56d14
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Sun Mar 20 11:04:47 2022 +0700
+
+    fix confict branch1 into branch2
+
+[33mcommit 5ce29e125f76634190949f3cae38bfca48a75ada[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Sun Mar 20 10:47:13 2022 +0700
+
+    add item into menu branch2
+
+[33mcommit 6f56d14682a5842849b96521fff575b39f770432[m[33m ([m[1;31morigin/branch1[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Sun Mar 20 10:43:53 2022 +0700
+
+    add item into menu
+
+[33mcommit 74abe804bb07477249563be079c534118226716e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e8d4635 46460e0
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Fri Mar 18 17:33:59 2022 +0700
+
+    Merge pull request #6 from ngothingoc10/test-git-merge
+    
+    fix: fix main content list
+
+[33mcommit 46460e0296eaed187b3f957ec6440fa1317a2cef[m[33m ([m[1;31morigin/test-git-merge[m[33m, [m[1;32mtest-git-merge[m[33m)[m
+Merge: 21e9228 e8d4635
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Fri Mar 18 17:27:31 2022 +0700
+
+    fix conflict
+
+[33mcommit 21e92286a498853e0c2491d47f040cd81accd10c[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Fri Mar 18 15:40:57 2022 +0700
+
+    fix: fix main content list
+
+[33mcommit e8d4635595da654553c0d437aed44dbc5cf33563[m
+Merge: cb0c1a4 3bf0e67
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Fri Mar 18 15:19:34 2022 +0700
+
+    Merge pull request #5 from ngothingoc10/test-git-merger-later
+    
+    Test git merger later
+
+[33mcommit cb0c1a48916e165d9d430794583b1e1d0e87e159[m
+Merge: b09eeef ec6ede0
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Fri Mar 18 15:17:36 2022 +0700
+
+    Merge pull request #4 from ngothingoc10/test-git-merge
+    
+    fix: fix main content list in index.html
+
+[33mcommit 3bf0e6732c78912847865997a24dcce954d8a8e5[m[33m ([m[1;31morigin/test-git-merger-later[m[33m, [m[1;32mtest-git-merger-later[m[33m)[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Fri Mar 18 15:14:45 2022 +0700
+
+    fix: fix main content list in index.html
+
+[33mcommit ec6ede06c5f885bdc513b3a853cc1766e6838d0d[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Fri Mar 18 14:59:44 2022 +0700
+
+    fix: fix main content list in index.html
+
+[33mcommit b09eeef168d05d7ca2d66a0d60098dde046374e2[m
+Merge: 7f657c4 c260363
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Thu Mar 17 14:46:12 2022 +0700
+
+    Merge pull request #3 from ngothingoc10/html
+    
+    feat: add list main content of index.html
+
+[33mcommit 7f657c45d3bc19da88c6e643cbd9d081fd12f021[m
+Merge: 22e0bca 1724da5
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Thu Mar 17 11:34:41 2022 +0700
+
+    Merge pull request #2 from ngothingoc10/css
+    
+    feat: creat style.css
+
+[33mcommit 22e0bca60cc4b4ac42da0ba853932967cbc123e9[m
+Merge: 1a7f214 11a9ca0
+Author: ngothingoc10 <72138339+ngothingoc10@users.noreply.github.com>
+Date:   Thu Mar 17 10:47:03 2022 +0700
+
+    Merge pull request #1 from ngothingoc10/html
+    
+    feat: add p tag to description into index.html
+
+[33mcommit c260363989e58ecab376b2f222517580addfa497[m[33m ([m[1;31morigin/html[m[33m)[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Thu Mar 17 07:42:06 2022 +0700
+
+    feat: add list main content of index.html
+
+[33mcommit 1724da5e7a67dd5e597a1577f5a4deafeac630d2[m[33m ([m[1;31morigin/css[m[33m)[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Thu Mar 17 04:31:41 2022 +0700
+
+    feat: creat style.css
+
+[33mcommit 11a9ca0c634957ee4b745047c7d5efd5a5c35ff7[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Thu Mar 17 03:45:52 2022 +0700
+
+    feat: add p tag to description into index.html
+
+[33mcommit 1a7f214a4b2b88c949cd427190e75b6d0c0be80e[m
+Author: ngocngo <ngothingocbk99@gmail.com>
+Date:   Thu Mar 17 02:35:57 2022 +0700
+
+    feat: add title of index.html
